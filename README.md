@@ -19,7 +19,13 @@ This repo contains material from workshops centered around Docling.
       <td>Boston (IBM Research Cambridge 314 Main St · Cambridge, MA)</td>
       <td><a href="https://www.meetup.com/big-data-developers-in-boston/events/307739085/">Docling Community Exchange</a></td>
       <td><a href="./workshops/2025_05_20">View Workshop</a></td>
-    </tr>  
+    </tr>
+    <tr>
+      <td>Monday, May 19, 2025</td>
+      <td>Boston (Boston Convention and Exhibition Center - Room 203)</td>
+      <td><a href="https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1731406492484001U6nH">Meet Docling: The “Pandas” for document AI</a></td>
+      <td><a href="./workshops/2025_05_19">View Workshop</a></td>
+    </tr>      
     <tr>
       <td>12–13 May 2025</td>
       <td>Dublin, Ireland</td>
