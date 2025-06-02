@@ -18,25 +18,25 @@ This repo contains material from workshops centered around Docling.
       <td>24 Nov 25</td>
       <td>Athens</td>
       <td><a href=""></a>GenAI Summit Europe</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>21-22 Nov 25</td>
       <td>Athens</td>
       <td><a href=""></a>OpenConf</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>10-13 Nov 25</td>
       <td>Atlanta</td>
       <td><a href=""></a>KubeCon</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>16-17 Oct 25</td>
       <td>Rapperswil</td>
       <td><a href=""></a>Python Summit</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>6-9 Sept 25</td>
@@ -48,49 +48,55 @@ This repo contains material from workshops centered around Docling.
       <td>24-26 Sept 25</td>
       <td>Amsterdam</td>
       <td><a href=""></a>PyData Amsterdam</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>19-20 Sept 25</td>
       <td>Boston</td>
-      <td><a href=""></a>DevCon</td>
-      <td><a href="">TBD</a></td>
+      <td><a href=""></a>DevConf</td>
+      <td><a href="">TBA</a></td>
     </tr>
     <tr>
       <td>01-03 Sept 25</td>
       <td>Berlin</td>
-      <td><a href=""></a>TBD</td>
-      <td><a href="">TBD</a></td>
+      <td><a href=""></a>PyData</td>
+      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>28-19 Aug 25</td>
       <td>Amsterdam</td>
       <td><a href=""></a>AI_Dev</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>25-27 Aug 25</td>
       <td>Amsterdam</td>
       <td><a href=""></a>Open Source Summit EU</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>08-10 July 25</td>
       <td>Milan / Rome</td>
-      <td><a href=""></a>TBD</td>
-      <td><a href="">TBD</a></td>
+      <td><a href=""></a>TBA</td>
+      <td><a href="">TBA</a></td>
     </tr>
     <tr>
       <td>26 June 2025 </td>
       <td>Denver</td>
       <td><a href="https://ossna2025.sched.com/event/1xtUF"></a>Open Source Summit</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBA</a></td>
     </tr>
     <tr>
       <td>11 June 2025 </td>
       <td>New York</td>
-      <td><a href="https://lu.ma/muqvquop"></a>IBM TechXchange Dev</td>
-      <td><a href="">TBD</a></td>
+      <td><a href="https://www.ibm.com/events/reg/flow/ibm/cap2yomb/landing/page/landing"></a>IBM TechXchange Dev Day</td>
+      <td><a href="./workshops/2025_06_11">View Workshop</a></td>
+    </tr>
+    <tr>
+      <td>2-8 June 2025 </td>
+      <td>New York</td>
+      <td><a href=""></a>NYC Tech Week</td>
+      <td><a href="">TBA</a></td>
     </tr>
     <tr>
       <td>20 May 2025</td>
