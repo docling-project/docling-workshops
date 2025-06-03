@@ -65,14 +65,8 @@ This repo contains material from workshops centered around Docling.
     <tr>
       <td>28-19 Aug 25</td>
       <td>Amsterdam</td>
-      <td><a href=""></a>AI_Dev</td>
-      <td><a href="">TBC</a></td>
-    </tr>
-    <tr>
-      <td>25-27 Aug 25</td>
-      <td>Amsterdam</td>
-      <td><a href=""></a>Open Source Summit EU</td>
-      <td><a href="">TBC</a></td>
+      <td><a href="https://events.linuxfoundation.org/ai-dev-europe/">AI_Dev</a></td>
+      <td><a href="">TBA</a></td>
     </tr>
     <tr>
       <td>08-10 July 25</td>
@@ -83,20 +77,20 @@ This repo contains material from workshops centered around Docling.
     <tr>
       <td>26 June 2025 </td>
       <td>Denver</td>
-      <td><a href="https://ossna2025.sched.com/event/1xtUF"></a>Open Source Summit</td>
+      <td><a href="https://ossna2025.sched.com/event/1xtUF">Open Source Summit</a></td>
       <td><a href="">TBA</a></td>
     </tr>
     <tr>
       <td>11 June 2025 </td>
       <td>New York</td>
-      <td><a href="https://www.ibm.com/events/reg/flow/ibm/cap2yomb/landing/page/landing"></a>IBM TechXchange Dev Day</td>
+      <td><a href="https://www.ibm.com/events/reg/flow/ibm/cap2yomb/landing/page/landing">IBM TechXchange Dev Day</a></td>
       <td><a href="./workshops/2025_06_11">View Workshop</a></td>
     </tr>
     <tr>
       <td>2-8 June 2025 </td>
       <td>New York</td>
-      <td><a href=""></a>NYC Tech Week</td>
-      <td><a href="">TBA</a></td>
+      <td><a href="https://partiful.com/e/Qv3cY9xqEcS8yuUlo2W9">NYC Tech Week</a></td>
+      <td><a href="https://partiful.com/e/Qv3cY9xqEcS8yuUlo2W9">Sign up!</a></td></td>
     </tr>
     <tr>
       <td>20 May 2025</td>
