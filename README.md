@@ -95,8 +95,8 @@ This repo contains material from workshops centered around Docling.
     <tr>
       <td>2-8 June 2025 </td>
       <td>New York</td>
-      <td><a href=""></a>NYC Tech Week</td>
-      <td><a href="">TBA</a></td>
+      <td><a href="https://partiful.com/e/Qv3cY9xqEcS8yuUlo2W9"></a>NYC Tech Week</td>
+      <td><a hred="https://partiful.com/e/Qv3cY9xqEcS8yuUlo2W9">Sign up!</a></td></td>
     </tr>
     <tr>
       <td>20 May 2025</td>
