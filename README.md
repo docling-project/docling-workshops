@@ -33,8 +33,14 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
+      <td>22-23 Oct 25</td>
+      <td>San Francisco</td>
+      <td><a href=""></a>PyTorch</td>
+      <td><a href="">TBC</a></td>
+    </tr>
+    <tr>
       <td>16-17 Oct 25</td>
-      <td>Rapperswil</td>
+      <td>Rapperswil, Switzerland</td>
       <td><a href=""></a>Python Summit</td>
       <td><a href="">TBC</a></td>
     </tr>
@@ -63,7 +69,7 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
-      <td>28-19 Aug 25</td>
+      <td>28-29 Aug 25</td>
       <td>Amsterdam</td>
       <td><a href="https://events.linuxfoundation.org/ai-dev-europe/">AI_Dev</a></td>
       <td><a href="">TBA</a></td>
