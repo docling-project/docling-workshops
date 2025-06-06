@@ -45,7 +45,7 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
-      <td>6-9 Sept 25</td>
+      <td>6-9 Oct 25</td>
       <td>Orlando</td>
       <td><a href=""></a>IBM TechXchange</td>
       <td><a href="">TBD</a></td>
