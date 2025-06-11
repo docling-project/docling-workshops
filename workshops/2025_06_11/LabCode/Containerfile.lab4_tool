@@ -1,0 +1,16 @@
+# Build with:
+# podman build --platform=linux/amd64,linux/arm64 -t ghrc.io/docling-project/lab-demo-docling-llamstack-mcp -f Containerfile.lab4_tool .
+
+FROM registry.access.redhat.com/ubi9/python-312:latest
+
+WORKDIR /app
+
+RUN pip install --upgrade pip && \
+    pip install --extra-index-url=https://download.pytorch.org/whl/cpu \
+        mcp \
+        llama-stack-client==0.2.0 \
+        docling
+
+COPY ./Docling_Lab4_tool.py .
+
+ENTRYPOINT ["python", "Docling_Lab4_tool.py"]
