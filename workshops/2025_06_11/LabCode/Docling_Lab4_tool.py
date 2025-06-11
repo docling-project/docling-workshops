@@ -73,7 +73,7 @@ def ingest_document_to_vectordb(source: str, vector_db_id: str):
     tokenizer = HuggingFaceTokenizer(
         tokenizer=AutoTokenizer.from_pretrained(
             pretrained_model_name_or_path=f"sentence-transformers/{settings.vdb_embedding}"
-        )
+        ),
     )
     chunker = HybridChunker(tokenizer=tokenizer)
 
@@ -108,4 +108,7 @@ def ingest_document_to_vectordb(source: str, vector_db_id: str):
 
 if __name__ == "__main__":
     # Initialize and run the server
+    mcp.settings.host = "0.0.0.0"
+    mcp.settings.port = 8000
+
     mcp.run(transport="sse")

@@ -1,5 +1,5 @@
 # Build with:
-# podman build --platform=linux/amd64,linux/arm64 -t ghrc.io/docling-project/lab-demo-docling-llamstack-mcp -f Containerfile.lab4_tool .
+# podman build -t quay.io/docling-project/lab-demo-docling-llamstack-mcp -f Containerfile.lab4_tool .
 
 FROM registry.access.redhat.com/ubi9/python-312:latest
 
