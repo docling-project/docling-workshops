@@ -87,6 +87,12 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBA</a></td>
     </tr>
     <tr>
+      <td>17 June 2025 </td>
+      <td>San Francisco</td>
+      <td><a href="https://www.ibm.com/events/reg/flow/ibm/krupkemb/landing/page/landing">IBM TechXchange Dev Day: AI</a></td>
+      <td><a href="./workshops/2025_06_17">View Workshop</a></td>
+    </tr>
+    <tr>
       <td>11 June 2025 </td>
       <td>New York</td>
       <td><a href="https://www.ibm.com/events/reg/flow/ibm/cap2yomb/landing/page/landing">IBM TechXchange Dev Day</a></td>
@@ -109,7 +115,7 @@ This repo contains material from workshops centered around Docling.
       <td>Boston (Boston Convention and Exhibition Center - Room 203)</td>
       <td><a href="https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1731406492484001U6nH">Meet Docling: The “Pandas” for document AI</a></td>
       <td><a href="./workshops/2025_05_19">View Workshop</a></td>
-    </tr>      
+    </tr>
     <tr>
       <td>12–13 May 2025</td>
       <td>Dublin, Ireland</td>
@@ -128,5 +134,5 @@ This repo contains material from workshops centered around Docling.
       <td><a href=""></a>AMLD</td>
       <td><a href="">TBD</a></td>
     </tr>
-  </tbody>  
+  </tbody>
 </table>
