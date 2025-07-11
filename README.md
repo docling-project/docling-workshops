@@ -84,7 +84,7 @@ This repo contains material from workshops centered around Docling.
       <td>08-10 July 25</td>
       <td>Milan / Rome</td>
       <td><a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1463305abcd">Developer Day Milano</a><br /><a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1466212abcd">Developer Day Roma</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="./workshops/2025_07_08">View Workshop</a></td>
     </tr>
     <tr>
       <td>26 June 2025 </td>
