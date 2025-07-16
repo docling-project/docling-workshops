@@ -39,10 +39,16 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
+      <td>19-23 Oct 25</td>
+      <td>Honolulu, Hawai'i</td>
+      <td><a href="https://iccv.thecvf.com/">ICCV 2025</a></td>
+      <td>Accepted / <a href="">TBA</a></td>
+    </tr>
+    <tr>
       <td>16-17 Oct 25</td>
       <td>Rapperswil, Switzerland</td>
       <td><a href="https://www.python-summit.ch/">Python Summit</a></td>
-      <td><a href="">TBC</a></td>
+      <td>Accepted / <a href="">TBA</a></td>
     </tr>
     <tr>
       <td>6-9 Oct 25</td>
