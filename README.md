@@ -33,12 +33,6 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
-      <td>22-23 Oct 25</td>
-      <td>San Francisco</td>
-      <td><a href="https://events.linuxfoundation.org/pytorch-conference/">PyTorch</a></td>
-      <td><a href="">TBC</a></td>
-    </tr>
-    <tr>
       <td>19-23 Oct 25</td>
       <td>Honolulu, Hawai'i</td>
       <td><a href="https://iccv.thecvf.com/">ICCV 2025</a></td>
@@ -54,7 +48,7 @@ This repo contains material from workshops centered around Docling.
       <td>6-9 Oct 25</td>
       <td>Orlando</td>
       <td><a href="https://www.ibm.com/community/ibm-techxchange-conference/">IBM TechXchange</a></td>
-      <td><a href="">TBD</a></td>
+      <td><a href="">TBA</a></td>
     </tr>
     <tr>
       <td>24-26 Sept 25</td>
@@ -96,7 +90,7 @@ This repo contains material from workshops centered around Docling.
       <td>26 June 2025 </td>
       <td>Denver</td>
       <td><a href="https://ossna2025.sched.com/event/1xtUF">Open Source Summit</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href=""></a></td>
     </tr>
     <tr>
       <td>17 June 2025 </td>
