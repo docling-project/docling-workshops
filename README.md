@@ -27,12 +27,6 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
-      <td>10-13 Nov 25</td>
-      <td>Atlanta</td>
-      <td><a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/">KubeCon</a></td>
-      <td><a href="">TBC</a></td>
-    </tr>
-    <tr>
       <td>19-23 Oct 25</td>
       <td>Honolulu, Hawai'i</td>
       <td><a href="https://iccv.thecvf.com/">ICCV 2025</a></td>
