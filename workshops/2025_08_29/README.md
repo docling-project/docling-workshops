@@ -1,9 +1,9 @@
-# AI_Dev
+# AI_dev
 
 _Link to this workshop: <https://ibm.biz/aidev-docling>_
 
 
-The Docling team is joining the [AI_Dev](https://events.linuxfoundation.org/ai-dev-europe/) conference with two sessions as well as lots of networking opportunities at the LFAI booth.
+The Docling team is joining the [AI_dev](https://events.linuxfoundation.org/ai-dev-europe/) conference with two sessions as well as lots of networking opportunities at the LFAI booth.
 
 - 💬 [Docling: Get Your Documents Ready for Gen AI](https://aideveu2025.sched.com/event/25Tts/docling-get-your-documents-ready-for-gen-ai-michele-dolfi-peter-staar-ibm-research?iframe=no&w=100%25&sidebar=yes&bg=no)
 - 🛠️ [Technical Workshop: Meet Docling: The “Pandas” for Document AI](https://aideveu2025.sched.com/event/279gj/technical-workshop-meet-docling-the-pandas-for-document-ai-peter-staar-cesar-berrospi-ibm-research?iframe=no&w=100%25&sidebar=yes&bg=no)
@@ -18,7 +18,7 @@ Code in [./LabCode/Docling_Lab1_code.ipynb](./LabCode/Docling_Lab1_code.ipynb).
 Topics:
 
 - Install Docling and convert documents
-- Navigate the output DoclingDocument (tables, pictures, etc)
+- Navigate the output DoclingDocument (tables, pictures, etc.)
 - Enrich document components
 
 [![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab1_code.ipynb)
@@ -46,7 +46,7 @@ Code in [./LabCode/Docling_Lab3_code.ipynb](./LabCode/Docling_Lab3_code.ipynb).
 
 Topics:
 
-- Build a RAG pipeline with with Docling and Langchain
+- Build a RAG pipeline with Docling and LangChain
 - Enhance and customize the content serialization
 - Turn the RAG pipeline into multi-modal with image annotations
 - Use visual grounding to highlight the provenance of the information on the original document
@@ -69,14 +69,14 @@ Topics:
 
 ### Install Jupyter
 
-!!! note "Use a `uv` and virtual environment"
-    Before installing dependencies and to avoid conflicts in your environment, it is advisable to use a [virtual environment (venv)](https://docs.python.org/3/library/venv.html) We advise to use the [uv]() tool to manage virtual environments and dependencies. You can install it with
-
-    ```shell
-    curl -LsSf https://astral.sh/uv/install.sh | sh
-    ```
-
-    More [install guides](https://docs.astral.sh/uv/getting-started/installation/).
+> [!TIP]
+> Before installing dependencies and to avoid conflicts in your environment, it is advisable to use a [virtual environment (venv)](https://docs.python.org/3/library/venv.html) We advise to use the [uv]() tool to manage virtual environments and dependencies. You can install it with
+>
+>   ```shell
+>   curl -LsSf https://astral.sh/uv/install.sh | sh
+>   ```
+>
+>   More [install guides](https://docs.astral.sh/uv/getting-started/installation/).
 
 1. Create virtual environment:
 
@@ -125,7 +125,8 @@ Topics:
 
 The following steps will enable you to run all the steps on [Google Colab](https://colab.research.google.com), without installing any tool locally.
 
-!!! note "Notebook execution speed tip" The default execution runtime in Colab uses a CPU. Consider using a different Colab runtime to increase execution speed, especially in situations where you may have other constraints such as a slow network connection. From the navigation bar, select `Runtime->Change runtime type`, then select either GPU- or TPU-based hardware acceleration.
+> [!TIP]
+> The default execution runtime in Colab uses a CPU. Consider using a different Colab runtime to increase execution speed, especially in situations where you may have other constraints such as a slow network connection. From the navigation bar, select `Runtime->Change runtime type`, then select either GPU- or TPU-based hardware acceleration.
 
 ### Colab Prerequisites
 
