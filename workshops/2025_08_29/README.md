@@ -21,7 +21,7 @@ Topics:
 - Navigate the output DoclingDocument (tables, pictures, etc)
 - Enrich document components
 
-
+[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab1_code.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab1_code.ipynb)
 
 
@@ -36,6 +36,7 @@ Topics:
 - Use the HybridChunker
 - Compare the chunker techniques by reviewing the chunks statistics
 
+[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab2_code.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab2_code.ipynb)
 
 
@@ -50,6 +51,7 @@ Topics:
 - Turn the RAG pipeline into multi-modal with image annotations
 - Use visual grounding to highlight the provenance of the information on the original document
 
+[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab3_code.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab3_code.ipynb)
 
 
