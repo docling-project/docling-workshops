@@ -72,7 +72,7 @@ This repo contains material from workshops centered around Docling.
       <td>28-29 Aug 25</td>
       <td>Amsterdam</td>
       <td><a href="https://events.linuxfoundation.org/ai-dev-europe/">AI_Dev</a></td>
-      <td>Accepted / <a href="">TBA</a></td>
+      <td><a href="./workshops/2025_08_29">View Workshop</a></td>
     </tr>
     <tr>
       <td>08-10 July 25</td>
