@@ -21,8 +21,8 @@ Topics:
 - Navigate the output DoclingDocument (tables, pictures, etc.)
 - Enrich document components
 
-[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab1_code.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab1_code.ipynb)
+[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-project/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab1_code.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-project/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab1_code.ipynb)
 
 
 ### Lab 2: Enhanced Chunking and Vectorization with Docling
@@ -36,8 +36,8 @@ Topics:
 - Use the HybridChunker
 - Compare the chunker techniques by reviewing the chunks statistics
 
-[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab2_code.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab2_code.ipynb)
+[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-project/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab2_code.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-project/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab2_code.ipynb)
 
 
 ### Lab 3: Building an AI-powered multimodal RAG system with Docling
@@ -51,18 +51,22 @@ Topics:
 - Turn the RAG pipeline into multi-modal with image annotations
 - Use visual grounding to highlight the provenance of the information on the original document
 
-[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab3_code.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab3_code.ipynb)
+[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-project/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab3_code.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-project/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab3_code.ipynb)
 
 
 ### Lab 4: Run Docling as MCP tool
 
-TODO
+Code in [./LabCode/Docling_Lab4_code.ipynb](./LabCode/Docling_Lab4_code.ipynb).
 
 Topics:
 
-- Use the Docling MCP tools
-- Experiment with Agentic RAG
+- Get familiar with Docling MCP
+- Run a RAG application with Llama Stack
+- Run information extraction
+
+[![View on GitHub](https://badgen.net/badge/icon/github?icon=github&label=View%20on "View on GitHub")](https://github.com/docling-project/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab4_code.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/docling-project/docling-workshops/blob/main/workshops/2025_08_29/LabCode/Docling_Lab4_code.ipynb)
 
 
 ## Running the Docling Notebooks Locally
