@@ -54,13 +54,13 @@ This repo contains material from workshops centered around Docling.
       <td>23 Sept 25</td>
       <td>Zurich, Switzerland</td>
       <td><a href="https://www.redhat.com/en/events/devconf-zurich/">Swiss Dev Confederation 2025</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="./workshops/2025_09_23">View Details</a></td>
     </tr>
     <tr>
       <td>19-20 Sept 25</td>
       <td>Boston</td>
       <td><a href="https://www.devconf.info/us/">DevConf.US</a></td>
-      <td>Accepted / <a href="">TBA</a></td>
+      <td><a href="./workshops/2025_09_20">View Details</a></td>
     </tr>
     <tr>
       <td>17-18 Sept 25</td>
