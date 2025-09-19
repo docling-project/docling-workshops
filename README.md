@@ -48,7 +48,7 @@ This repo contains material from workshops centered around Docling.
       <td>24-26 Sept 25</td>
       <td>Amsterdam</td>
       <td><a href="https://amsterdam.pydata.org/">PyData Amsterdam</a></td>
-      <td>Accepted / <a href="">TBA</a></td>
+      <td><a href="./workshops/2025_09_24">View Details</a></td>
     </tr>
     <tr>
       <td>23 Sept 25</td>
