@@ -15,61 +15,67 @@ This repo contains material from workshops centered around Docling.
   </thead>
   <tbody>
     <tr>
-      <td>24 Nov 25</td>
+      <td>24 Nov 2025</td>
       <td>Athens</td>
       <td><a href="https://www.genaisummitseeurope.com/">GenAI Summit Europe</a></td>
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
-      <td>19-23 Oct 25</td>
+      <td>19-23 Oct 2025</td>
       <td>Honolulu, Hawai'i</td>
       <td><a href="https://iccv.thecvf.com/">ICCV 2025</a></td>
       <td>Accepted / <a href="">TBA</a></td>
     </tr>
     <tr>
-      <td>16-17 Oct 25</td>
+      <td>16-17 Oct 2025</td>
       <td>Rapperswil, Switzerland</td>
       <td><a href="https://www.python-summit.ch/">Python Summit</a></td>
       <td>Accepted / <a href="">TBA</a></td>
     </tr>
     <tr>
-      <td>6-9 Oct 25</td>
+      <td>6-9 Oct 2025</td>
       <td>Orlando</td>
       <td><a href="https://www.ibm.com/community/ibm-techxchange-conference/">IBM TechXchange</a></td>
       <td><a href="">TBA</a></td>
     </tr>
     <tr>
-      <td>24-26 Sept 25</td>
+      <td>24-26 Sept 2025</td>
       <td>Amsterdam</td>
       <td><a href="https://amsterdam.pydata.org/">PyData Amsterdam</a></td>
       <td><a href="./workshops/2025_09_24">View Details</a></td>
     </tr>
     <tr>
-      <td>23 Sept 25</td>
+      <td>23 Sept 2025</td>
       <td>Zurich, Switzerland</td>
       <td><a href="https://www.redhat.com/en/events/devconf-zurich/">Swiss Dev Confederation 2025</a></td>
       <td><a href="./workshops/2025_09_23">View Details</a></td>
     </tr>
     <tr>
-      <td>19-20 Sept 25</td>
+      <td>20 Sept 2025</td>
       <td>Boston</td>
       <td><a href="https://www.devconf.info/us/">DevConf.US</a></td>
       <td><a href="./workshops/2025_09_20">View Details</a></td>
     </tr>
     <tr>
-      <td>01-03 Sept 25</td>
+      <td>19 Sept 2025</td>
+      <td>Boston - Harvard</td>
+      <td><a href=https://lnkd.in/p/eCx3r88F>Invited Talk</a></td>
+      <td><a href="./workshops/2025_09_19_harvard">View Details</a></td>
+    </tr>    
+    <tr>
+      <td>01-03 Sept 2025</td>
       <td>Berlin</td>
       <td><a href="https://pydata.org/berlin2025">PyData</a></td>
       <td>Accepted / <a href="">TBA</a></td>
     </tr>
     <tr>
-      <td>28-29 Aug 25</td>
+      <td>28-29 Aug 2025</td>
       <td>Amsterdam</td>
       <td><a href="https://events.linuxfoundation.org/ai-dev-europe/">AI_dev</a></td>
       <td><a href="./workshops/2025_08_29">View Workshop</a></td>
     </tr>
     <tr>
-      <td>08-10 July 25</td>
+      <td>08-10 July 2025</td>
       <td>Milan / Rome</td>
       <td><a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1463305abcd">Developer Day Milano</a><br /><a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x1466212abcd">Developer Day Roma</a></td>
       <td><a href="./workshops/2025_07_08">View Workshop</a></td>
