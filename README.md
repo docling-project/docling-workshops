@@ -21,12 +21,6 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
-      <td>21-22 Nov 25</td>
-      <td>Athens</td>
-      <td><a href="https://www.open-conf.gr">OpenConf</a></td>
-      <td><a href="">TBC</a></td>
-    </tr>
-    <tr>
       <td>19-23 Oct 25</td>
       <td>Honolulu, Hawai'i</td>
       <td><a href="https://iccv.thecvf.com/">ICCV 2025</a></td>
@@ -61,12 +55,6 @@ This repo contains material from workshops centered around Docling.
       <td>Boston</td>
       <td><a href="https://www.devconf.info/us/">DevConf.US</a></td>
       <td><a href="./workshops/2025_09_20">View Details</a></td>
-    </tr>
-    <tr>
-      <td>17-18 Sept 25</td>
-      <td>Washington DC</td>
-      <td><a href="https://devopsdays.org/events/2025-washington-dc/">DevOpsDays DC</a></td>
-      <td><a href="">TBC</a></td>
     </tr>
     <tr>
       <td>01-03 Sept 25</td>
