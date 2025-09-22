@@ -57,6 +57,12 @@ This repo contains material from workshops centered around Docling.
       <td><a href="./workshops/2025_09_20">View Details</a></td>
     </tr>
     <tr>
+      <td>19-20 Sept 25</td>
+      <td>Boston - Harvard</td>
+      <td><a href=https://lnkd.in/p/eCx3r88F>Invited Talk</a></td>
+      <td><a href="./workshops/2025_09_20_harvard">View Details</a></td>
+    </tr>    
+    <tr>
       <td>01-03 Sept 25</td>
       <td>Berlin</td>
       <td><a href="https://pydata.org/berlin2025">PyData</a></td>
