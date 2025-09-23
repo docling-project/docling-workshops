@@ -10,14 +10,17 @@ from docling.datamodel.pipeline_options import (
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling_core.transforms.chunker.tokenizer.huggingface import HuggingFaceTokenizer
 from docling_core.types.doc import DoclingDocument
+from docling_core.transforms.chunker.hierarchical_chunker import (
+    ChunkingDocSerializer,
+    ChunkingSerializerProvider,
+)
+from docling_core.transforms.serializer.markdown import MarkdownTableSerializer
 from llama_stack_client import LlamaStackClient, RAGDocument
 from llama_stack_client.types import QueryChunksResponse, QueryResult
 from llama_stack_client.types.vector_io_insert_params import Chunk, ChunkChunkMetadata
 from pydantic import NonNegativeFloat
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from rich.console import Console
-from rich.live import Live
-from rich.text import Text
 from transformers import AutoTokenizer
 
 class Settings(BaseSettings):
@@ -84,21 +87,19 @@ def answer_with_rag(
         )
 
         # print the response
-        with Live(console=console) as live:
-            text = "inference> "
-            for chunk in response:
-                if (
-                    hasattr(chunk.choices[0], "delta")
-                    and chunk.choices[0].delta.content
-                ):
-                    text += chunk.choices[0].delta.content
+        text = "inference> "
+        for chunk in response:
+            if (
+                hasattr(chunk.choices[0], "delta")
+                and chunk.choices[0].delta.content
+            ):
+                text += chunk.choices[0].delta.content
 
-                elif (
-                    hasattr(chunk.choices[0], "text") and chunk.choices[0].text.content
-                ):
-                    text += chunk.choices[0].text.content
-            live.update(Text(text, style="yellow"))
-            live.refresh()
+            elif (
+                hasattr(chunk.choices[0], "text") and chunk.choices[0].text.content
+            ):
+                text += chunk.choices[0].text.content
+        console.print(f"[yellow]{text}[/yellow]")
 
     return all_responses
 
@@ -128,6 +129,14 @@ def ingest_with_default_rag_tool(
     )
 
 
+class MDTableSerializerProvider(ChunkingSerializerProvider):
+    def get_serializer(self, doc):
+        return ChunkingDocSerializer(
+            doc=doc,
+            table_serializer=MarkdownTableSerializer(),  # configuring a different table serializer
+        )
+
+
 def ingest_with_docling(
     *,
     client: LlamaStackClient,
@@ -143,6 +152,7 @@ def ingest_with_docling(
             pretrained_model_name_or_path=f"{vdb_embedding}"
         )
     )
+    # chunker = HybridChunker(tokenizer=tokenizer, serializer_provider=MDTableSerializerProvider())
     chunker = HybridChunker(tokenizer=tokenizer)
 
     for doc in docs:
