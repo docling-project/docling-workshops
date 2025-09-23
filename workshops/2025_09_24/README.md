@@ -4,7 +4,7 @@
 
 ## Slides
 
-See [docling_workshop.pptx](./docling_workshop.pptx) for the workshop slides.
+See [docling_workshop.pdf](./docling_workshop.pdf) for the workshop slides.
 
 ## Labs
 
