@@ -21,6 +21,12 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBC</a></td>
     </tr>
     <tr>
+      <td>21-22 Nov 25</td>
+      <td>Athens</td>
+      <td><a href="https://www.open-conf.gr">OpenConf</a></td>
+      <td>Accepted / <a href="">TBA</a></td>
+    </tr>
+    <tr>
       <td>19-23 Oct 2025</td>
       <td>Honolulu, Hawai'i</td>
       <td><a href="https://iccv.thecvf.com/">ICCV 2025</a></td>
