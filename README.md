@@ -42,7 +42,7 @@ This repo contains material from workshops centered around Docling.
       <td>6-9 Oct 2025</td>
       <td>Orlando</td>
       <td><a href="https://www.ibm.com/community/ibm-techxchange-conference/">IBM TechXchange</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="./workshops/2025_10_6_techxchange/">View Details</a></td>
     </tr>
     <tr>
       <td>24-26 Sept 2025</td>
