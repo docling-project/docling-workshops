@@ -42,7 +42,7 @@ This repo contains material from workshops centered around Docling.
       <td>17 Oct 2025</td>
       <td>Seville, Spain</td>
       <td><a href="https://2025.es.pycon.org/">PyCon Spain 2025</a></td>
-      <td>Accepted / <a href="./workshops/2025_10_17_PyConES/">View Details</a></td>
+      <td><a href="./workshops/2025_10_17_PyConES/">View Details</a></td>
     </tr>
     <tr>
       <td>6-9 Oct 2025</td>
