@@ -27,6 +27,12 @@ This repo contains material from workshops centered around Docling.
       <td>Accepted / <a href="">TBA</a></td>
     </tr>
     <tr>
+      <td>6 Nov 2025 </td>
+      <td>Lausanne</td>
+      <td><a href="https://www.ibm.com/events/reg/flow/ibm/gkl7tzmb/landing/page/landing">IBM TechXchange Dev Day</a></td>
+      <td><a href="./workshops/2025_11_06">View Workshop</a></td>
+    </tr>
+    <tr>
       <td>19-23 Oct 2025</td>
       <td>Honolulu, Hawai'i</td>
       <td><a href="https://iccv.thecvf.com/">ICCV 2025</a></td>
@@ -67,7 +73,7 @@ This repo contains material from workshops centered around Docling.
       <td>Boston - Harvard</td>
       <td><a href=https://lnkd.in/p/eCx3r88F>Invited Talk</a></td>
       <td><a href="./workshops/2025_09_19_harvard">View Details</a></td>
-    </tr>    
+    </tr>
     <tr>
       <td>01-03 Sept 2025</td>
       <td>Berlin</td>
