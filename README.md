@@ -24,7 +24,7 @@ This repo contains material from workshops centered around Docling.
       <td>21-22 Nov 25</td>
       <td>Athens</td>
       <td><a href="https://www.open-conf.gr">OpenConf</a></td>
-      <td>Accepted / <a href="">TBA</a></td>
+      <td><a href="./workshops/2025_11_21">View Workshop</a></td>
     </tr>
     <tr>
       <td>6 Nov 2025 </td>
