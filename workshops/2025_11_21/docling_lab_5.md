@@ -13,6 +13,8 @@ LLM:
 - temperature: 0
 - seed: 42
 
+Test file: demo_data/afr2023_71.pdf
+
 Questions:
 - What is the document about?
 - What is the total loss allowance for trade receivables?
