@@ -18,7 +18,7 @@ This repo contains material from workshops centered around Docling.
       <td>24 Nov 2025</td>
       <td>Athens</td>
       <td><a href="https://www.genaisummitseeurope.com/">GenAI Summit Europe</a></td>
-      <td>Accepted / <a href="">TBA</a></td>
+      <td><a href="https://www.genaisummitseeurope.com/bio-panos-vagenas">View Details</a></td>
     </tr>
     <tr>
       <td>21-22 Nov 25</td>
