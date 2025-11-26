@@ -15,6 +15,12 @@ This repo contains material from workshops centered around Docling.
   </thead>
   <tbody>
     <tr>
+      <td>4 Dec 2025 </td>
+      <td>Paris</td>
+      <td><a href="https://www.ibm.com/events/reg/flow/ibm/4phiuhmb/landing/page/landing">IBM TechXchange Dev Day</a></td>
+      <td><a href="./workshops/2025_12_04">View Workshop</a></td>
+    </tr>
+    <tr>
       <td>24 Nov 2025</td>
       <td>Athens</td>
       <td><a href="https://www.genaisummitseeurope.com/">GenAI Summit Europe</a></td>
