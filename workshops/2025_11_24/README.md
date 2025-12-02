@@ -6,4 +6,4 @@
 
 ## Presentation
 
-- [Presentation deck](./Docling%20GenAI%20Summit%204.pptx)
+- [Presentation deck](./docling_genai_summit_20251124.pptx)
