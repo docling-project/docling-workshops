@@ -10,7 +10,7 @@
 - [Lab 2: Getting Started with RAG](./docling_lab_2.ipynb)
 - [Lab 3: Advanced RAG with Multimodal Support and Visual Grounding](./docling_lab_3.ipynb)
 - [Lab 4: Document Extraction](./docling_lab_4.ipynb)
-- Lab 5: Agentic Applications. TBA
+- [Lab 5: Agentic Applications](./docling_lab_5.md)
 
 ## Running the Docling Notebooks Locally
 
