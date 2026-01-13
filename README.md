@@ -15,6 +15,12 @@ This repo contains material from workshops centered around Docling.
   </thead>
   <tbody>
     <tr>
+      <td>12 Dec 2025 </td>
+      <td>Online</td>
+      <td><a href="https://zoom-lfx.platform.linuxfoundation.org/meetings/docling?view=week">Docling Office Hours</a></td>
+      <td><a href="./workshops/2025_12_12">View Files</a></td>
+    </tr>
+    <tr>
       <td>4 Dec 2025 </td>
       <td>Paris</td>
       <td><a href="https://www.ibm.com/events/reg/flow/ibm/4phiuhmb/landing/page/landing">IBM TechXchange Dev Day</a></td>
