@@ -4,6 +4,108 @@ This repo contains material from workshops centered around Docling.
 
 ## Docling workshops
 
+### 2026 Events
+
+<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align: left; width: 100%;">
+  <thead style="background-color: #f2f2f2;">
+    <tr>
+      <th>📅 Date</th>
+      <th>📍 Location</th>
+      <th>🎤 Event</th>
+      <th>🔗 Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>26-29 October 2026</td>
+      <td>Atlanta, Georgia, US</td>
+      <td><a href="https://www.ibm.com/events/techxchange">IBM TechXchange</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>13-19 Jul 2026</td>
+      <td>Kraków, Poland</td>
+      <td><a href="https://ep2026.europython.eu/">EuroPython</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>3-4 June 2026</td>
+      <td>Netherlands, Belgium</td>
+      <td><a href="">RedHat Developer Days</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>11-14 May 2026</td>
+      <td>Atlanta, Georgia, US</td>
+      <td><a href="https://www.redhat.com/en/summit">Red Hat Summit</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>7-8 May 2026</td>
+      <td>Bern, Switzerland</td>
+      <td><a href="https://uphillconf.com">Uphill Conf</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>4-7 May 2026</td>
+      <td>Boston, MA, US</td>
+      <td><a href="https://www.ibm.com/events/think">IBM THINK</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>16-17 April 2026</td>
+      <td>Prague, Czechia</td>
+      <td><a href="https://events.linuxfoundation.org/opensearchcon-europe/">OpenSearch Con EU</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>7-8 April 2026</td>
+      <td>Paris, FR</td>
+      <td><a href="https://events.linuxfoundation.org/pytorch-conference-europe/">PyTorch Con EU</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>27 March 2026</td>
+      <td>Amsterdam, NL</td>
+      <td><a href="">AI Native Summit</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>23-24 March 2026</td>
+      <td>Durham, NC, US</td>
+      <td><a href="https://allthingsai.org/event/2026-all-things-ai-conference">All Things AI</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>17-18 March 2026</td>
+      <td>Shanghai, China</td>
+      <td><a href="https://www.lfopensource.cn/opensearchcon-china">OpenSearch Con China</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>16-19 March 2026</td>
+      <td>San Jose, CA, US</td>
+      <td><a href="https://www.nvidia.com/gtc/">NVIDIA GTC</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>5-8 March 2026</td>
+      <td>Pasadena, CA, US</td>
+      <td><a href="https://www.socallinuxexpo.org/scale/23x">SCALE 23x</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+    <tr>
+      <td>24 February 2026</td>
+      <td>Zurich, Switzerland</td>
+      <td><a href="https://www.meetup.com/zurich-ai-meetup/events/312878223/">Zürich AI | AI Tooling</a></td>
+      <td><a href="">TBA</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+<summary><h3 style="display: inline;">2025 Events (Click to expand)</h3></summary>
+
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align: left; width: 100%;">
   <thead style="background-color: #f2f2f2;">
     <tr>
@@ -143,7 +245,7 @@ This repo contains material from workshops centered around Docling.
     <tr>
       <td>19 May 2025</td>
       <td>Boston (Boston Convention and Exhibition Center - Room 203)</td>
-      <td><a href="https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1731406492484001U6nH">Meet Docling: The “Pandas” for document AI</a></td>
+      <td><a href="https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1731406492484001U6nH">Meet Docling: The "Pandas" for document AI</a></td>
       <td><a href="./workshops/2025_05_19">View Workshop</a></td>
     </tr>
     <tr>
@@ -166,3 +268,5 @@ This repo contains material from workshops centered around Docling.
     </tr>
   </tbody>
 </table>
+
+</details>
