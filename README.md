@@ -97,8 +97,8 @@ This repo contains material from workshops centered around Docling.
     <tr>
       <td>24 February 2026</td>
       <td>Zurich, Switzerland</td>
-      <td><a href="https://www.meetup.com/zurich-ai-meetup/events/312878223/">Zürich AI | AI Tooling</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="https://www.meetup.com/zurich-ai-meetup/events/312878223/">Zürich AI Club | AI Tooling</a></td>
+      <td><a href="./workshops/2026_02_24">View Details</a></td>
     </tr>
   </tbody>
 </table>
