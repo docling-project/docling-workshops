@@ -23,11 +23,23 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBA</a></td>
     </tr>
     <tr>
+      <td>25-28 August 2026</td>
+      <td>Fribourg, Switzerland</td>
+      <td><a href="https://doceng.org/doceng2026">DocEng'26 conference</a></td>
+      <td><a href="">Confirmed</a></td>
+    </tr>    
+    <tr>
       <td>13-19 Jul 2026</td>
       <td>Kraków, Poland</td>
       <td><a href="https://ep2026.europython.eu/">EuroPython</a></td>
       <td><a href="">TBA</a></td>
     </tr>
+    <tr>
+      <td>25 June 2026</td>
+      <td>London, UK</td>
+      <td><a href="https://events.linuxfoundation.org/open-source-finance-forum-london/">Open Source in Finance Forum</a></td>
+      <td><a href="">Confirmed</a></td>
+    </tr>    
     <tr>
       <td>3-4 June 2026</td>
       <td>Netherlands, Belgium</td>
@@ -38,19 +50,19 @@ This repo contains material from workshops centered around Docling.
       <td>11-14 May 2026</td>
       <td>Atlanta, Georgia, US</td>
       <td><a href="https://www.redhat.com/en/summit">Red Hat Summit</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="">Confirmed</a></td>
     </tr>
     <tr>
       <td>7-8 May 2026</td>
       <td>Bern, Switzerland</td>
       <td><a href="https://uphillconf.com">Uphill Conf</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="">Confirmed</a></td>
     </tr>
     <tr>
       <td>4-7 May 2026</td>
       <td>Boston, MA, US</td>
       <td><a href="https://www.ibm.com/events/think">IBM THINK</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="">Confirmed</a></td>
     </tr>
     <tr>
       <td>16-17 April 2026</td>
@@ -62,7 +74,7 @@ This repo contains material from workshops centered around Docling.
       <td>7-8 April 2026</td>
       <td>Paris, FR</td>
       <td><a href="https://events.linuxfoundation.org/pytorch-conference-europe/">PyTorch Con EU</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="">Confirmed</a></td>
     </tr>
     <tr>
       <td>27 March 2026</td>
@@ -86,7 +98,7 @@ This repo contains material from workshops centered around Docling.
       <td>16-19 March 2026</td>
       <td>San Jose, CA, US</td>
       <td><a href="https://www.nvidia.com/gtc/">NVIDIA GTC</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="">Confirmed</a></td>
     </tr>
     <tr>
       <td>5-8 March 2026</td>
