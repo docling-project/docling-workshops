@@ -74,7 +74,7 @@ This repo contains material from workshops centered around Docling.
       <td>7-8 April 2026</td>
       <td>Paris, FR</td>
       <td><a href="https://events.linuxfoundation.org/pytorch-conference-europe/">PyTorch Con EU</a></td>
-      <td><a href="">Confirmed</a></td>
+      <td><a href="">Confirmed [link](https://register.linuxfoundation.org/gBNdqo?sms=7&cn=29hvEAlzRdmaGvA8Qhg4Aw)</a></td>
     </tr>
     <tr>
       <td>27 March 2026</td>
