@@ -79,8 +79,8 @@ This repo contains material from workshops centered around Docling.
     <tr>
       <td>27 March 2026</td>
       <td>Amsterdam, NL</td>
-      <td><a href="">AI Native Summit</a></td>
-      <td><a href="">TBA</a></td>
+      <td>AI Native Summit</td>
+      <td><a href="./workshops/2026_03_27/Docling Cloud Native AI - web.pptx">View</a></td>
     </tr>
     <tr>
       <td>23-24 March 2026</td>
