@@ -47,6 +47,12 @@ This repo contains material from workshops centered around Docling.
       <td><a href="">TBA</a></td>
     </tr>
     <tr>
+      <td>19-20 May 2026</td>
+      <td>Zug, Switzerland</td>
+      <td><a href="https://opensource.siemens.com/events/2026/">Open Source @ Siemens 2026</a></td>
+      <td><a href="">Confirmed</a></td>
+    </tr>  
+    <tr>
       <td>11-14 May 2026</td>
       <td>Atlanta, Georgia, US</td>
       <td><a href="https://www.redhat.com/en/summit">Red Hat Summit</a></td>
@@ -56,7 +62,7 @@ This repo contains material from workshops centered around Docling.
       <td>7-8 May 2026</td>
       <td>Bern, Switzerland</td>
       <td><a href="https://uphillconf.com">Uphill Conf</a></td>
-      <td><a href="">Confirmed</a></td>
+      <td><a href="https://uphillconf.com/talks/docling-insights-lessons-from-building-an-open-source-ai-standard-for-unstructured-data/">Description</a></td>
     </tr>
     <tr>
       <td>4-7 May 2026</td>
@@ -74,7 +80,7 @@ This repo contains material from workshops centered around Docling.
       <td>7-8 April 2026</td>
       <td>Paris, FR</td>
       <td><a href="https://events.linuxfoundation.org/pytorch-conference-europe/">PyTorch Con EU</a></td>
-      <td><a href="">Confirmed [link](https://register.linuxfoundation.org/gBNdqo?sms=7&cn=29hvEAlzRdmaGvA8Qhg4Aw)</a></td>
+      <td><a href="https://register.linuxfoundation.org/gBNdqo?sms=7&cn=29hvEAlzRdmaGvA8Qhg4Aw">Registration</a></td>
     </tr>
     <tr>
       <td>27 March 2026</td>
