@@ -34,7 +34,7 @@ See how the Red Hat Enterprise Linux Lightspeed team uses Docling for document i
 
 **Speakers:**
 - Ali Maredia, Senior Software Engineer, Red Hat
-- Míriam Duffy, Distinguished Engineer, Red Hat Enterprise Linux, Red Hat
+- Máirín Duffy, Distinguished Engineer, Red Hat Enterprise Linux, Red Hat
 - Major Hayden, Senior Principal Software Engineer, Red Hat
 
 ---
