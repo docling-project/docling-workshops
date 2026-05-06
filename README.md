@@ -56,7 +56,7 @@ This repo contains material from workshops centered around Docling.
       <td>11-14 May 2026</td>
       <td>Atlanta, Georgia, US</td>
       <td><a href="https://www.redhat.com/en/summit">Red Hat Summit</a></td>
-      <td><a href="">Confirmed</a></td>
+      <td><a href="./workshops/2026_05_11_rh_summit/README.md">Description</a></td>
     </tr>
     <tr>
       <td>7-8 May 2026</td>
