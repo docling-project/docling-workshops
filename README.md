@@ -27,7 +27,7 @@ This repo contains material from workshops centered around Docling.
       <td>Fribourg, Switzerland</td>
       <td><a href="https://doceng.org/doceng2026">DocEng'26 conference</a></td>
       <td><a href="">Confirmed</a></td>
-    </tr>    
+    </tr>
     <tr>
       <td>13-19 Jul 2026</td>
       <td>Kraków, Poland</td>
@@ -39,7 +39,7 @@ This repo contains material from workshops centered around Docling.
       <td>London, UK</td>
       <td><a href="https://events.linuxfoundation.org/open-source-finance-forum-london/">Open Source in Finance Forum</a></td>
       <td><a href="">Confirmed</a></td>
-    </tr>    
+    </tr>
     <tr>
       <td>3-4 June 2026</td>
       <td>Netherlands, Belgium</td>
@@ -50,8 +50,8 @@ This repo contains material from workshops centered around Docling.
       <td>19-20 May 2026</td>
       <td>Zug, Switzerland</td>
       <td><a href="https://opensource.siemens.com/events/2026/">Open Source @ Siemens 2026</a></td>
-      <td><a href="">Confirmed</a></td>
-    </tr>  
+      <td><a href="./workshops/2026_05_20_siemens/docling_siemens_20260520.pptx">View</a></td>
+    </tr>
     <tr>
       <td>11-14 May 2026</td>
       <td>Atlanta, Georgia, US</td>
