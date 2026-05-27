@@ -97,8 +97,8 @@ This repo contains material from workshops centered around Docling.
     <tr>
       <td>17-18 March 2026</td>
       <td>Shanghai, China</td>
-      <td><a href="https://www.lfopensource.cn/opensearchcon-china">OpenSearch Con China</a></td>
-      <td><a href="">TBA</a></td>
+      <td><a href="https://www.lfopensource.cn/opensearchcon-china">OpenSearchCon China</a></td>
+      <td><a href="./workshops/2026_03_17">View Details</a></td>
     </tr>
     <tr>
       <td>16-19 March 2026</td>
