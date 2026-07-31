@@ -1,0 +1,46 @@
+{
+  "_comment": "Ground-truth answers for the Compliance Assessment Form. Source document for each field is indicated. FOR INSTRUCTORS ONLY — do not distribute to participants before the lab.",
+  "entity_name": {
+    "value": "Meridian Financial Group",
+    "source": "meridian_risk_disclosure.pdf — cover page"
+  },
+  "reporting_period": {
+    "value": "Q3 2025",
+    "source": "meridian_risk_disclosure.pdf — cover page and section 1"
+  },
+  "total_risk_exposure_usd": {
+    "value": 4820,
+    "unit": "USD millions",
+    "source": "meridian_risk_disclosure.pdf — section 1 (executive summary) and section 2.1 (risk summary table); confirmed in q3_audit_summary.docx — section 2"
+  },
+  "highest_risk_category": {
+    "value": "Credit Risk",
+    "source": "meridian_risk_disclosure.pdf — section 1 and section 2.1 (risk summary table, status: HIGH); confirmed in q3_audit_summary.docx — section 2"
+  },
+  "regulator_reference_number": {
+    "value": "FRB-2025-0847",
+    "source": "meridian_risk_disclosure.pdf — cover page and section 3.1; mentioned in q3_audit_summary.docx — section 2"
+  },
+  "key_obligations": {
+    "value": [
+      "Submit CET1 ratio certification to Federal Reserve Board within 30 days of quarter-end",
+      "File Volcker Rule quarterly metrics report no later than 30 days after quarter close",
+      "Maintain NPL ratio below 3.5% per internal risk appetite statement (RAS-2024-Rev3)",
+      "Report any single counterparty exposure exceeding 10% of Tier 1 Capital within 5 business days",
+      "Complete annual AML programme review and file certification with BSA Compliance Officer"
+    ],
+    "source": "regulatory_guidelines_2025.epub — chapter 7 (Key Obligations Summary); also summarised in q3_audit_summary.docx — section 5"
+  },
+  "material_findings": {
+    "value": [
+      "MF-001: Stress testing methodology gaps in leveraged loan portfolio (HIGH)",
+      "MF-002: Incomplete credit risk model validation documentation for CRE Scorecard v3.1 and SME Rating Model v2.4 (HIGH)",
+      "MF-003: Delayed remediation of AML transaction monitoring threshold review — overdue since Q1 2025 (MEDIUM)"
+    ],
+    "source": "q3_audit_summary.docx — section 3 (Material Findings)"
+  },
+  "sign_off_date": {
+    "value": "2025-10-15",
+    "source": "q3_audit_summary.docx — section 6 (Sign-Off and Certification) and cover page metadata"
+  }
+}
