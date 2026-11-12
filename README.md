@@ -17,6 +17,12 @@ This repo contains material from workshops centered around Docling.
   </thead>
   <tbody>
     <tr>
+      <td>12 November 2026</td>
+      <td>Online</td>
+      <td><a href="">OpenTech Connect 2026</a></td>
+      <td><a href="./workshops/2026_11_12">View Workshop</a></td>
+    </tr>
+    <tr>
       <td>26-29 October 2026</td>
       <td>Atlanta, Georgia, US</td>
       <td><a href="https://www.ibm.com/events/techxchange">IBM TechXchange</a></td>

@@ -1,0 +1,11 @@
+{
+  "_comment": "Compliance Assessment Form — Vantara Bank Q3 2026. Fields are intentionally spread across the three source documents so participants must process all of them. This file is the empty template; the ground-truth answers are in compliance_assessment_form_answers.json.",
+  "entity_name": null,
+  "reporting_period": null,
+  "total_risk_exposure_usd": null,
+  "highest_risk_category": null,
+  "regulator_reference_number": null,
+  "key_obligations": [],
+  "material_findings": [],
+  "sign_off_date": null
+}
